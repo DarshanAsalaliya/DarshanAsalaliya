@@ -1,7 +1,10 @@
 ### Hi there 👋 I'm Darshan
 
+<img src="https://komarev.com/ghpvc/?username=DarshanAsalaliya&color=red&style=flat-square&label=P+R+O+F+I+L+E+ +V+I+E+W+S" alt="">
+
 # 💫 About Me:
 I’m currently working on something new. <br>I’m currently learning Mobile App Development. <br>I’m looking to collaborate on Instagram. <br>Ask me about PHP and JS. <br>Student at Silveroak University. <br>Love to solve real world problems.
+
 
 
 ## 🌐 Socials:
